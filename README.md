@@ -1,4 +1,9 @@
 # Project-Alex
+Web-based jeopardy-style game with account management and category/question generation. Final project for the Software Engineering Course. Languages/technology used: HTML/CSS/Javascript, PHP, MYSQL
+
+Design documentation and source code available upon request. 
+
+
 ![alt text](https://raw.githubusercontent.com/vmyu/Project-Alex/master/images/image_1.png)
 
 Single-player starts a new Jeopardy game session as a guest. When playing as a guest, your game sessions and records will not be saved. Registering and logging into a CS Jeopardy account will be able to pause and resume game sessions as well as keep record of your game history and scores.
